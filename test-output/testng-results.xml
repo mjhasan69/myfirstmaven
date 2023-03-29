@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-26T03:00:51 EDT" name="Suite" finished-at="2023-03-26T03:00:51 EDT" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T03:00:51 EDT" name="Test" finished-at="2023-03-26T03:00:51 EDT" duration-ms="72">
+      <class name="march22.Register">
+        <test-method signature="registerUser()[pri:0, instance:march22.Register@1ed4ae0f]" started-at="2023-03-26T03:00:51 EDT" name="registerUser" finished-at="2023-03-26T03:00:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+      </class> <!-- march22.Register -->
+      <class name="march22.LogIn">
+        <test-method signature="loginUser()[pri:0, instance:march22.LogIn@1a6d8329]" started-at="2023-03-26T03:00:51 EDT" name="loginUser" finished-at="2023-03-26T03:00:51 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+      </class> <!-- march22.LogIn -->
+      <class name="march22.SearchProduct">
+        <test-method signature="searchProduct()[pri:0, instance:march22.SearchProduct@7526515b]" started-at="2023-03-26T03:00:51 EDT" name="searchProduct" finished-at="2023-03-26T03:00:51 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- march22.SearchProduct -->
+      <class name="march22.LogOut">
+        <test-method signature="logoutUser()[pri:0, instance:march22.LogOut@54c5a2ff]" started-at="2023-03-26T03:00:51 EDT" name="logoutUser" finished-at="2023-03-26T03:00:51 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+      </class> <!-- march22.LogOut -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
